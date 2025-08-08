@@ -22,7 +22,7 @@ export const DATA = {
   ],
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
-    { href: "/blog", icon: NotebookIcon, label: "Blog" },
+    //{ href: "/blog", icon: NotebookIcon, label: "Blog" },
   ],
   contact: {
     email: "contact.piyushpahade@gmail.com",
@@ -70,7 +70,7 @@ export const DATA = {
       start: "Sept 2024",
       end: "Present",
       description:
-        "Implemented the Bitcoin discreet log contract (DLC) protocol specifications as an open source Typescript SDK. Dockerized all microservices and setup production kubernetes cluster. Architected a data lake using AWS S3 and Athena for historical backtesting of bitcoin trading strategies. Built a mobile app using react native and typescript.",
+        "Led end-to-end Salesforce implementations for enterprise clients, aligning technology with business goals via stakeholder workshops, requirements gathering, and solution design. Delivered strategic advisory using market research to craft tailored recommendations that boosted client performance and user experience. Conducted customer journey mapping and process redesigns to eliminate bottlenecks. Collaborated cross-functionally to build data-backed business cases",
     },
     {
       company: "Community Brands",
@@ -82,7 +82,7 @@ export const DATA = {
       start: "Oct 2021",
       end: "Aug 2024",
       description:
-        "Implemented a custom Kubernetes controller in Go to automate the deployment of MySQL and ProxySQL custom resources in order to enable 2,000+ internal developers to instantly deploy their app databases to production. Wrote several scripts in Go to automate MySQL database failovers while maintaining master-slave replication topologies and keeping Zookeeper nodes consistent with changes.",
+        "Designed and deployed scalable Salesforce solutions for 15+ global clients using Apex, LWC, SOQL, and APIs. Acted as a trusted SME, gathering and refining requirements into robust architectures. Increased platform adoption by 25% through tailored configurations. Led SaaS deployments, cutting timelines by 30%. Built automated workflows reducing manual effort by 40%. Created solution accelerators and maintained detailed documentation.",
     },
     {
       company: "Aditya Pharmacy",
@@ -94,7 +94,7 @@ export const DATA = {
       start: "June 2020",
       end: "Mar 2021",
       description:
-        "Architected and wrote the entire MVP of the GeForce Now Cloud Gaming internal admin and A/B testing dashboard using React, Redux, TypeScript, and Python.",
+        "During the COVID-19 peak, I led a delivery system for essential medicines in underserved communities. Developed a WhatsApp order system categorizing orders by PIN code to optimize routes. Managed logistics with strict safety protocols and timely delivery. Implemented cost-saving measures, collaborated with pharmacies, and ensured efficient resource use—delivering critical medical supplies during a high-pressure period.",
     },
     {
       company: "Itrons Technologies",
@@ -106,7 +106,7 @@ export const DATA = {
       start: "Aug 2019",
       end: "Aug 2020",
       description:
-        "Co-developed a prototype iOS app with another intern in Swift for the new Splunk Phantom security orchestration product (later publicly demoed and launched at .conf annual conference in Las Vegas). Implemented a realtime service for the iOS app in Django (Python) and C++; serialized data using protobufs transmitted over gRPC resulting in an approximate 500% increase in data throughput.",
+        "During my internship at Itron Technologies, I gained hands-on experience with AWS cloud infrastructure, deploying web applications using EC2, S3, and Route 53. Explored cloud providers like Azure and Google Cloud, learned Linux server configuration, and studied cloud networking concepts such as VPCs and security groups. Developed an understanding of deployment pipelines focusing on scalability, availability, and security.",
     },
     {
       company: "Bharat Sanchar Nigam Limited",
@@ -118,7 +118,7 @@ export const DATA = {
       start: "June 2018",
       end: "August 2018",
       description:
-        "Contributed to BSNL’s optical fiber communication infrastructure by configuring and testing OLTs and ONTs for optimal performance. Supported FTTH and broadband troubleshooting by analyzing logs, identifying latency issues, and recommending fixes to reduce downtime. Collaborated with engineers on deploying high-speed broadband in rural areas, ensuring compliance with technical standards. Conducted performance analysis on MPLS-based systems, identified bottlenecks, and proposed routing protocol enhancements to minimize packet loss and improve network reliability across various regions.",
+        "Contributed to BSNL’s optical fiber network by configuring and testing OLT and ONT devices for optimal performance. Supported broadband and FTTH troubleshooting by analyzing logs and resolving latency issues. Assisted engineers in deploying high-speed broadband in rural areas, ensuring compliance with standards. Performed MPLS network analysis, recommending routing enhancements to reduce packet loss and improve reliability.",
     },
     /*{
       company: "Mitre Media",
@@ -349,7 +349,7 @@ export const DATA = {
       dates: "2018",
       location: "Sant Gadge Baba Amravati University, Amravati",
       description:
-        "Developed an internal widget for uploading assignments using Waterloo's portal app",
+        "",
       image:
         "/msbte.jpeg",
     },
