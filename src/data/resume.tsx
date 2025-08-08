@@ -86,7 +86,7 @@ export const DATA = {
     },
     {
       company: "Aditya Pharmacy",
-      href: "",
+      href: "https://www.communitybrands.com/",
       badges: [],
       location: "Amravati",
       title: "Business Co-ordinator",
@@ -98,6 +98,7 @@ export const DATA = {
     },
     {
       company: "Itrons Technologies",
+      href: "https://www.itrons.com/",
       badges: [],
       location: "Amravati",
       title: "Intern",
