@@ -120,7 +120,7 @@ export default function Page() {
                   My Projects
                 </div>
                 <h2 className="text-3xl font-bold tracking-tighter sm:text-5xl">
-                  In the pipeline
+                  In the pipeline 🚀
                 </h2>
                 <p className="text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
                   Exciting things are in the works from sleek websites to dynamic web apps, powerful Salesforce solutions, and cutting-edge GenAI projects. A variety of creations are on the way… stay tuned!
@@ -128,7 +128,7 @@ export default function Page() {
               </div>
             </div>
           </BlurFade>
-          <div className="grid grid-cols-1 gap-3 sm:grid-cols-2 max-w-[800px] mx-auto">
+          {/*<div className="grid grid-cols-1 gap-3 sm:grid-cols-2 max-w-[800px] mx-auto">
             {DATA.projects.map((project, id) => (
               <BlurFade
                 key={project.title}
@@ -147,7 +147,7 @@ export default function Page() {
                 />
               </BlurFade>
             ))}
-          </div>
+          </div>*/}
         </div>
       </section>
       <section id="hackathons">
@@ -177,7 +177,6 @@ export default function Page() {
                     location={project.location}
                     dates={project.dates}
                     image={project.image}
-                    links={project.links}
                   />
                 </BlurFade>
               ))}
